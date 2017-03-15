@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle markdown-make-a-list",
+        "command": "markdown-make-a-list:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "markdown-make-a-list",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "markdown-make-a-list:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

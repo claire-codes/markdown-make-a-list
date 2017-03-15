@@ -1,0 +1,11 @@
+{
+    "atom-workspace": {
+        "ctrl-alt-p": "markdown-make-a-list:toggle"
+    },
+    "atom-text-editor[data-grammar='text md']": {
+        "ctrl-alt-c": "markdown-make-a-list:insert-foobar"
+    },
+    "atom-text-editor[data-grammar='text md']": {
+        "ctrl-alt-m": "markdown-make-a-list:insert-bullet"
+    }
+}
